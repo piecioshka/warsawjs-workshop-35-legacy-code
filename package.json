@@ -1,0 +1,20 @@
+{
+    "name": "warsawjs-workshop-35-legacy-code",
+    "version": "1.0.0",
+    "description": "[![dependencies](https://david-dm.org/piecioshka/warsawjs-workshop-34-trainer-needed.svg)](https://github.com/piecioshka/warsawjs-workshop-34-trainer-needed) [![snyk](https://snyk.io/test/github/piecioshka/warsawjs-workshop-34-trainer-needed/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/warsawjs-workshop-34-trainer-needed?targetFile=package.json)",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/piecioshka/warsawjs-workshop-35-legacy-code.git"
+    },
+    "keywords": [],
+    "author": "Piotr Kowalski <piecioshka@gmail.com> (https://piecioshka.pl)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/piecioshka/warsawjs-workshop-35-legacy-code/issues"
+    },
+    "homepage": "https://github.com/piecioshka/warsawjs-workshop-35-legacy-code#readme"
+}
