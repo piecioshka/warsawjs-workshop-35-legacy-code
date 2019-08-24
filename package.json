@@ -10,16 +10,20 @@
         "url": "https://piecioshka.pl/"
     },
     "scripts": {
+        "lint": "eslint .",
         "test": "jest",
-        "lint": "eslint ."
+        "coverage": "npm run test -- --coverage",
+        "coveralls": "npm run coverage -- --coverageReporters=text-lcov | coveralls -v"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/piecioshka/warsawjs-workshop-35-legacy-code.git"
     },
     "devDependencies": {
+        "@types/jest": "^24.0.15",
+        "coveralls": "^3.0.5",
         "eslint": "^6.2.2",
-        "eslint-config-piecioshka": "^2.0.1",
+        "eslint-config-piecioshka": "^2.0.2",
         "jest": "^24.8.0"
     }
 }
