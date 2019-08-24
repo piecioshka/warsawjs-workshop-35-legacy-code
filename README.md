@@ -35,6 +35,8 @@
 
 ### 9. Linting & EditorConfig
 
+### 10. Tips & Tricks
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br/>
