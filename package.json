@@ -13,17 +13,19 @@
         "lint": "eslint .",
         "test": "jest",
         "coverage": "npm run test -- --coverage",
-        "coveralls": "npm run coverage -- --coverageReporters=text-lcov | coveralls -v"
+        "coveralls": "npm run coverage -- --coverageReporters=text-lcov | coveralls -v",
+        "plato": "plato -r -t 'WarsawJS Workshop #35' -d ./plato src"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/piecioshka/warsawjs-workshop-35-legacy-code.git"
     },
     "devDependencies": {
-        "@types/jest": "^24.0.15",
-        "coveralls": "^3.0.5",
+        "@types/jest": "^24.0.18",
+        "coveralls": "^3.0.6",
         "eslint": "^6.2.2",
         "eslint-config-piecioshka": "^2.0.2",
-        "jest": "^24.8.0"
+        "jest": "^24.9.0",
+        "plato": "^1.7.0"
     }
 }
