@@ -1,0 +1,3 @@
+[submodule "src/pomodoro"]
+	path = src/pomodoro
+	url = git@github.com:piecioshka/Pomodoro-Clock.git
