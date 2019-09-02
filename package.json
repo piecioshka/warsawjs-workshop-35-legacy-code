@@ -18,12 +18,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/piecioshka/warsawjs-workshop-35-legacy-code.git"
+        "url": "https://github.com/piecioshka/warsawjs-workshop-35-legacy-code.git"
     },
     "devDependencies": {
         "@types/jest": "^24.0.18",
         "coveralls": "^3.0.6",
-        "eslint": "^6.2.2",
+        "eslint": "^6.3.0",
         "eslint-config-piecioshka": "^2.0.2",
         "jest": "^24.9.0",
         "plato": "^1.7.0"
