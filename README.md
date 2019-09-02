@@ -1,6 +1,5 @@
 # warsawjs-workshop-35-legacy-code
 
-[![dependencies](https://david-dm.org/piecioshka/warsawjs-workshop-35-legacy-code.svg)](https://github.com/piecioshka/warsawjs-workshop-35-legacy-code)
 [![travis-ci](https://api.travis-ci.org/piecioshka/warsawjs-workshop-35-legacy-code.svg?branch=master)](https://travis-ci.org/piecioshka/warsawjs-workshop-35-legacy-code)
 [![coveralls](https://coveralls.io/repos/github/piecioshka/warsawjs-workshop-35-legacy-code/badge.svg?branch=master)](https://coveralls.io/github/piecioshka/warsawjs-workshop-35-legacy-code?branch=master)
 [![snyk](https://snyk.io/test/github/piecioshka/warsawjs-workshop-35-legacy-code/badge.svg?targetFile=package.json)](https://snyk.io/test/github/piecioshka/warsawjs-workshop-35-legacy-code?targetFile=package.json)
