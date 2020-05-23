@@ -22,13 +22,7 @@
 
 ### 7. Design Patterns
 
-* WWW: <https://github.com/piecioshka/pattern-mvc>
-* WWW: <https://github.com/piecioshka/pattern-strategy>
-* WWW: <https://github.com/piecioshka/pattern-singleton>
-* WWW: <https://github.com/piecioshka/pattern-observer>
-* WWW: <https://github.com/piecioshka/pattern-mediator>
-* WWW: <https://github.com/piecioshka/pattern-factory-method>
-* WWW: <https://github.com/piecioshka/patterns>
+* <https://github.com/piecioshka/patterns-guide>
 
 ### 8. Cyclomatic Complexity
 
