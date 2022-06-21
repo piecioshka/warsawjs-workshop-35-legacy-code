@@ -8,7 +8,7 @@
 
 ### 2. Unit tests
 
-### 3. CI (ex. Travis, Circle CI, Semaphore Ci, Coveralls)
+### 3. CI (ex. Travis, Circle CI, Semaphore Ci)
 
 ### 4. UML
 
