@@ -31,10 +31,6 @@
 Contributions, issues and feature requests are welcome!<br/>
 Feel free to check [issues page](/issues/).
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ## Related
 
 * by [@jacekmikrut](https://github.com/jacekmikrut/warsawjs-workshop-35-legacy-code)
